@@ -8,10 +8,10 @@ Torque - 11 N-m (110 kg-cm)
 Current - 19.2 A
 
 Weapon Motor : Starter Motor  
-RPM(24V) - 10000+ 
-Current stall - 200Amps
-Current no load - 2Amps
-Peak Torque - 60 kg-cm  
+RPM(24V) - 10000+   
+Current stall - 200Amps  
+Current no load - 2Amps  
+Peak Torque - 60 kg-cm    
 
 Battery  
 Orange 4200mAh 6s 35C/70C for drive motors
