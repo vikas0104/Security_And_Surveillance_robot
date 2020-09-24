@@ -1,6 +1,32 @@
 # Security_And_Surveillance_robot
 a remote-controlled wireless robot capable of tackling obstacles and fighting on one to one basis that can provide a safe and secure environment in domestic, industrial and military applications.
 
+## Specs
+Drive Motors : Ebike (350W)  
+RPM(24V) - 324 RPM  
+Torque - 11 N-m (110 kg-cm)  
+Current - 19.2 A
+
+Weapon Motor : Starter Motor  
+RPM(24V) - 10000+ 
+Current stall - 200Amps
+Current no load - 2Amps
+Peak Torque - 60 kg-cm  
+
+Battery  
+Orange 4200mAh 6s 35C/70C for drive motors
+
+Tatto 10000mAh 6s 25C for weapon Motor  
+
+Motor Driver :  
+SmartElex 30D for drive motors.  
+Solenoid Walve + RC switch are used for Weapon motor as motor driver.  
+
+Material :  
+Aluminium 6061T for body framework.  
+EN24 hardened Steel used for weapon(Drum).  
+
+
 ## Achievement
 This robot has won first prize in state level technical fest organised by AKTU
 ![IMG20191123165356](https://user-images.githubusercontent.com/54751571/94114702-55556300-fe66-11ea-8cee-72a52873ea59.jpeg)
